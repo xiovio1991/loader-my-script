@@ -1,0 +1,2 @@
+# loader-my-script
+nothing
